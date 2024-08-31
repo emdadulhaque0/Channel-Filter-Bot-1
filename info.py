@@ -1,8 +1,8 @@
-API_ID       = 
-API_HASH     = ""
-BOT_TOKEN    = ""
+API_ID       = 21798852
+API_HASH     = "e5ce3ff3bad6eac58e35b6d8bfbaf0fa"
+BOT_TOKEN    = "7326147540:AAES37jnUgxTvLQgiZJhgL2NX8wnmpuMb-c"
 SESSION      = ""
 DATABASE_URI = ""
-LOG_CHANNEL  = -1001884373226
-ADMIN        = 1350642629
+LOG_CHANNEL  = -1002198563284
+ADMIN        = 5840013737
 CHANNEL      = "@GreyMatter_Bots"
